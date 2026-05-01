@@ -1,0 +1,23 @@
+# Environments
+.env
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Database & State
+.data/
+index.faiss
+metadata.json
+chat_history.json
+
+# OS files
+.DS_Store
+
+# Streamlit
+.streamlit/
