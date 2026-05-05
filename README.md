@@ -64,3 +64,5 @@ Retrieval: Each chunk is embedded into a vector and stored in FAISS. When a user
 
 
 Note: the FAISS index, metadata, and chat history are saved to a local .data folder and reloaded on startup. Delete the .data folder to fully reset, or use the Reset Storage button.
+
+
